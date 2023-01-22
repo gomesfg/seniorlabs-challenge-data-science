@@ -2,7 +2,7 @@
 
 ![GIF](https://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/assets/gif-desafio.gif)
 
-## Índice
+## Índice <a name="index"></a>
 
 - [Pré-requisitos](#installation)
 - [Desenvolvimento](#development)
@@ -11,13 +11,13 @@
 
 ## Pré-requisitos <a name="installation"></a>
 
-[(Voltar ao topo)](#table-of-contents)
+[(Voltar ao topo)](#index)
 
 - Possuir uma conta Google
 
 ## Desenvolvimento <a name="development"></a>
 
-[(Voltar ao topo)](#table-of-contents)
+[(Voltar ao topo)](#index)
 
 - Para o desenvolvimento do trabalho foi empregado o método Cross Industry Standard Process for Data Mining (CRISP-DM). Este modelo, na sua versão 1.0, propõe um ciclo de vida para projetos de mineração de dados, composto de seis etapas: entendimento do
   negócio, entendimento dos dados, preparação dos dados, modelagem, avaliação e implantação.
@@ -34,12 +34,12 @@
 
 ## Artigo <a name="article"></a>
 
-[(Voltar ao topo)](#table-of-contents)
+[(Voltar ao topo)](#index)
 
 - O artigo do desafio está disponível em [Artigo - Desafio Data Science - Senior Labs - Felipe Gomes.pdf](https://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/Artigo%20-%20Desafio%20Data%20Science%20-%20Senior%20Labs%20-%20Felipe%20Gomes.pdf).
 
 ## Licença <a name="license"></a>
 
-[(Voltar ao topo)](#Índice)
+[(Voltar ao topo)](#index)
 
 [The MIT License](https://opensource.org/licenses/MIT)
