@@ -30,7 +30,7 @@
 
 - Para execução, o mesmo pode ser acessado pelo Google Colab clicando no botão abaixo:
 
-  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/notebook/Desafio_DS_Senior_Felipe_Gomes.ipynb)
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gomesfg/seniorlabs-challenge-data-science/blob/main/notebook/Desafio_DS_Senior_Felipe_Gomes.ipynb)
 
 ## Artigo <a name="article"></a>
 
