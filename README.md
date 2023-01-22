@@ -1,6 +1,6 @@
 # Desafio Senior Labs - Data Scientist - Classificador de Mensagens de Spam
 
-![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) -->
+![GIF](https://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/assets/gif-desafio.gif) -->
 
 # Índice
 
@@ -22,15 +22,15 @@
 - Para o desenvolvimento do trabalho foi empregado o método Cross Industry Standard Process for Data Mining (CRISP-DM). Este modelo, na sua versão 1.0, propõe um ciclo de vida para projetos de mineração de dados, composto de seis etapas: entendimento do
   negócio, entendimento dos dados, preparação dos dados, modelagem, avaliação e implantação.
 
-  ![Fluxo CRISP](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) -->
+  ![Fluxo CRISP](https://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/assets/Fluxo%20desafio.png) -->
 
 - Foi utilizada a linguagem Python e bibliotecas de algoritmos e análise de dados, como scikit-learn, NumPy e Pandas.
 
-- O notebook contendo as anotações e resolução do desafio está disponível em [Desafio_DS_Senior_Felipe_Gomes.ipynb](https://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/Desafio_DS_Senior_Felipe_Gomes.ipynb).
+- O notebook contendo as anotações e resolução do desafio está disponível em [Desafio_DS_Senior_Felipe_Gomes.ipynb](https://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/notebook/Desafio_DS_Senior_Felipe_Gomes.ipynbhttps://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/notebook/Desafio_DS_Senior_Felipe_Gomes.ipynb).
 
 - Para execução, o mesmo pode ser acessado pelo Google Colab clicando no botão abaixo:
 
-  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/Desafio_DS_Senior_Felipe_Gomes.ipynb)
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/notebook/Desafio_DS_Senior_Felipe_Gomes.ipynbhttps://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/notebook/Desafio_DS_Senior_Felipe_Gomes.ipynb)
 
 # Artigo
 
