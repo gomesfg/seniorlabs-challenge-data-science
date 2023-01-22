@@ -1,24 +1,22 @@
-# Desafio Senior Labs - Data Scientist - Classificador de Mensagens de Spam
+# Desafio Senior Labs - Classificador de Mensagens de Spam
 
 ![GIF](https://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/assets/gif-desafio.gif)
 
-# Índice
+## Índice
 
 - [Pré-requisitos](#installation)
 - [Desenvolvimento](#development)
 - [Artigo](#article)
 - [Licença](#license)
 
-# Pré-requisitos
+## Pré-requisitos <a name="installation"></a>
 
-<a name="installation"></a>
 [(Voltar ao topo)](#table-of-contents)
 
 - Possuir uma conta Google
 
-# Desenvolvimento
+## Desenvolvimento <a name="development"></a>
 
-<a name="development"></a>
 [(Voltar ao topo)](#table-of-contents)
 
 - Para o desenvolvimento do trabalho foi empregado o método Cross Industry Standard Process for Data Mining (CRISP-DM). Este modelo, na sua versão 1.0, propõe um ciclo de vida para projetos de mineração de dados, composto de seis etapas: entendimento do
@@ -28,22 +26,20 @@
 
 - Foi utilizada a linguagem Python e bibliotecas de algoritmos e análise de dados, como scikit-learn, NumPy e Pandas.
 
-- O notebook contendo as anotações e resolução do desafio está disponível em [Desafio_DS_Senior_Felipe_Gomes.ipynb](https://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/notebook/Desafio_DS_Senior_Felipe_Gomes.ipynbhttps://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/notebook/Desafio_DS_Senior_Felipe_Gomes.ipynb).
+- O notebook contendo as anotações e resolução do desafio está disponível em [Desafio_DS_Senior_Felipe_Gomes.ipynb](https://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/notebook/Desafio_DS_Senior_Felipe_Gomes.ipynb).
 
 - Para execução, o mesmo pode ser acessado pelo Google Colab clicando no botão abaixo:
 
-  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/notebook/Desafio_DS_Senior_Felipe_Gomes.ipynbhttps://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/notebook/Desafio_DS_Senior_Felipe_Gomes.ipynb)
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/notebook/Desafio_DS_Senior_Felipe_Gomes.ipynb)
 
-# Artigo
+## Artigo <a name="article"></a>
 
-<a name="article"></a>
 [(Voltar ao topo)](#table-of-contents)
 
 - O artigo do desafio está disponível em [Artigo - Desafio Data Science - Senior Labs - Felipe Gomes.pdf](https://github.com/gomesfg/seniorlabs-challenge-data-science/blob/main/Artigo%20-%20Desafio%20Data%20Science%20-%20Senior%20Labs%20-%20Felipe%20Gomes.pdf).
 
-# Licença
+## Licença <a name="license"></a>
 
-<a name="license"></a>
 [(Voltar ao topo)](#Índice)
 
 [The MIT License](https://opensource.org/licenses/MIT)
